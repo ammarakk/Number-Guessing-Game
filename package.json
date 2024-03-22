@@ -1,6 +1,6 @@
 {
   "name": "number-guessing-game-aak",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Number Guessing Game with TypeScript, Node.js and inquirer",
   "main": "index.js",
   "type": "module",
